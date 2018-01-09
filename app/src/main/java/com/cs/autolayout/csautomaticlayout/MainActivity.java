@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void click(View view) {
-        String[] strings = {"sfsdfsfsdfsfs", "hahaa", "klllll", "just do it", "hello world", "lalallaal", "bottom", "top", "right"};
+        String[] strings = {"第一行代码", "swift深入浅出", "Java面向对象编程", "iPhone X", "一加5t手机壳", "面包机", "装逼神器"};
         csLayout.loadView(strings);
     }
 }

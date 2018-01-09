@@ -87,7 +87,7 @@ public class CSLayout extends ViewGroup {
                     }else if(this.textBackgroundColor != 0){
                         textView.setBackgroundColor(this.textBackgroundColor);
                     }else{
-                        textView.setBackgroundResource(R.drawable.text_background);
+                        textView.setBackgroundResource(R.drawable.select_background);
                     }
 
                     if(this.textViewPadding != 0){

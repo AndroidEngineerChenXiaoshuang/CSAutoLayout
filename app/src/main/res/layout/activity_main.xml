@@ -16,8 +16,8 @@
         android:id="@+id/csLayout"
         android:animateLayoutChanges="true"
         app:childTextColor="#000"
-        app:childLeftPadding="5"
-        app:childRightPadding="5"
+        app:childLeftPadding="10"
+        app:childRightPadding="10"
         app:childSpacing="10"
         android:padding="10dp"/>
 
