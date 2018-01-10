@@ -16,9 +16,15 @@
         android:id="@+id/csLayout"
         android:animateLayoutChanges="true"
         app:childTextColor="#000"
+        app:childTextSize="15"
+        app:childPadding="10"
         app:childLeftPadding="10"
         app:childRightPadding="10"
+        app:childTopPadding="10"
+        app:childBottomPadding="10"
         app:childSpacing="10"
+        app:childTextBackgroundColor="#999"
+        app:childTextBackgroundResource="@drawable/select_background"
         android:padding="10dp"/>
 
 
